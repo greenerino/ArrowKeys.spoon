@@ -7,7 +7,6 @@ Simply maps vim-like arrow key bindings when holding `fn`, and nothing else.
 ```
 cd ~/.hammerspoon/Spoons/
 git clone git@github.com:greenerino/ArrowKeys.spoon.git
-
 ```
 
 Then, in `init.lua`:
